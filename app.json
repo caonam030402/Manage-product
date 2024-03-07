@@ -16,6 +16,9 @@
       ]
     ],
     "name": "product-manager",
-    "slug": "product-manager"
+    "slug": "product-manager",
+    "experiments": {
+      "typedRoutes": true
+    }
   }
 }
